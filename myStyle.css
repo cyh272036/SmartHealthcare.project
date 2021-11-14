@@ -1,0 +1,52 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.title{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-size: 4vmax;
+    line-height: 50%;
+    padding: 9vmax;
+    
+}
+
+#smart{
+    color: #33ff00;
+    font-family: 'Audiowide', cursive;
+    font-size: 6.9vmax;
+}
+
+.arrow{
+    background-image: url(image/arrow44.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.button{
+    font-family: 'Audiowide', cursive;
+    font-size: 4vmax;
+    text-align: center;
+    width:27vmax;
+    height:6vmax;
+    float:right;
+    line-height: 6vmax;
+    margin: -1vmax;
+}
+
+.button:hover{
+    font-family: 'Audiowide', cursive;
+    font-size: 5vmax;
+    text-align: center;
+    width:27vmax;
+    height:6vmax;
+    float:right;
+    line-height: 6vmax;
+    background-color: yellow;
+}
